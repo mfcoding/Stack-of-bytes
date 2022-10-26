@@ -21,7 +21,7 @@ extern size_t count(stack *st);
 /* Shrink capacity of the stack to fit its content.  */
 extern void fit(stack *st);
 
-/* Show content of stack. */
+/* Show content of the stack. */
 extern void show(stack *st);
 
 /* Return 1 if stack is Empty, 0 if not. */
