@@ -13,7 +13,7 @@ int main()
     while (operation > 0 && operation < 7)
     {
         printf("%s", "\n\033[0;33m");
-        puts("Select one of these operations below\n"
+        puts("Select one of these operations below:-\n"
         " 1  to push a value on the stack\n"
         " 2  to pop a value off the stack\n"
         " 3  to print the number of the elements in the stack.\n"
