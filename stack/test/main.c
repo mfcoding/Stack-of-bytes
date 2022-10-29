@@ -18,7 +18,7 @@ int main()
         " 2  to pop a value off the stack\n"
         " 3  to print the number of the elements in the stack.\n"
         " 4  to show content of the stack.\n"
-        " 5  to shrink the capacity of the stack to fit its content.\n"
+        " 5  to shrink capacity of the stack to fit its content.\n"
         " 6  to remove the entire stack from memory.\n"
         " 0  to exit the program.\033[0m\n"); 
 
